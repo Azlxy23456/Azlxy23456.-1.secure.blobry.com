@@ -1,0 +1,9 @@
+/**
+* We've created a little bit of css for you to build upon.
+*/
+html {
+    background-color: #2c2f33;
+    font-family: helvetica,arial,sans-serif;
+    transition: .2s;
+    color: white;
+}
